@@ -13,7 +13,7 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
-    "express": "^4.16.4",
+    "express": "^4.21.2",
     "express-useragent": "^1.0.12",
     "iplocation": "^6.1.0",
     "splunk-bunyan-logger": "^0.10.1",
